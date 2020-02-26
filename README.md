@@ -2,6 +2,6 @@
 
 This is an example repository for an SPSS-based analysis. You can reproduce the analysis using [code/run.sps](code/run.sps)
 
-## Test header
+## Header 2
 
-Just testing editing markdown within Github.
+A place for more info about project
