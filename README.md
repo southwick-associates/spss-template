@@ -1,6 +1,6 @@
-# test
+# spss-template
 
-This is an example repository for an SPSS-based analysis. You can reproduce the analysis using [code/run.sps](code/run.sps)
+This is a template for an SPSS-based analysis.
 
 ## Header 2
 
